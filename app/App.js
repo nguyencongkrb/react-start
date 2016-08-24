@@ -4,7 +4,7 @@ import {render} from 'react-dom';
 class App extends Component {
   render(){
     return (
-      <h1>Hello World</h1>
+      <h1>Hello World! This is a the start of your new application!</h1>
     );
   }
 }
